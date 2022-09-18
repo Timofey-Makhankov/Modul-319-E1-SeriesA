@@ -33,4 +33,17 @@ Debugging in IDE
 4. 6 is in the variable zaehler when i is set to -3
 
 - e
+
+1. The first digit is 0
+2. It will execute the code on line 18
+3. diffrent options to see the variables data ->
+
+- You can check the Run & Debug section on the left in Vscode
+- You can also check it on the side of the code itself
+- print out the variable in the console
+
 - f
+
+1. If the inserted number is under 2 and over 6 it will go to line 23
+2. The IDE will show me, when it has changedthe data in the variable
+3. Please refer to answer E.3
